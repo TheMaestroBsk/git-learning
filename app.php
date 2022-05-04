@@ -1,6 +1,7 @@
 <?php
 
 $x = 10;
-echo "Example x = ".$x;
+$y = 100;
+echo "Example X x Y = ".($x*$y);
 
 ?>
